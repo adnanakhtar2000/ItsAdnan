@@ -22,6 +22,6 @@
 
 ## 📞 **Connect with me**
 - **LinkedIn:** [Adnan Akhtar](https://www.linkedin.com/in/adnan-akhtar-811225202)
-- **Email:** [your-email@example.com]
+- **Email:** [adnanakhtar.10001@gmail.com]
 
 **Feel free to check out my repositories and contribute to my open-source projects!**
